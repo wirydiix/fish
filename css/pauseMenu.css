@@ -1,0 +1,25 @@
+.pauseMenu{
+    background: #000000d4;
+    z-index: 1;
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    left: 25%;
+    top: 22%;
+    color: white;
+    font-size: 2vw;
+    display: flex;
+    flex-direction: column;
+}
+.pauseScore{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+.pauseScoreCount{
+    padding: 0 5px;
+}
+.btnEnd{
+    font-size: 2vw;
+    margin-bottom: 10px;
+}
